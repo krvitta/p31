@@ -1,8 +1,9 @@
 body{
-	background-color: yellow;
+	background-color: greenyellow;
 	width:800px;
 	margin:0 auto;
 }
 h2{
 	font-size:1.5em;
+	color:blue;
 }
