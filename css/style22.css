@@ -1,5 +1,5 @@
 body{
-	background-color: yellow;
+	background-color: greenyellow;
 	width:800px;
 	margin:0 auto;
 }
@@ -9,4 +9,5 @@ h2{
 p{
 	border:1px dotted green;
 	font-family:Verdana;
+	color:blue;
 }
